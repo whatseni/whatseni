@@ -2,7 +2,7 @@
 <img align="center" alt="" src="https://t1.daumcdn.net/cfile/tistory/9975E9455B20AB7A24"/>
 
 ## Connect With My Blog
-<img align="left" alt="https://seees.tistory.com/" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+[<img width="80" src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g"/>](https://seees.tistory.com/)
 <br />
 <br />
 
