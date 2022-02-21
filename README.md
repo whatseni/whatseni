@@ -1,5 +1,4 @@
 # Welcome My Space⚡
-<img align="center" alt="" src="https://t1.daumcdn.net/cfile/tistory/9975E9455B20AB7A24"/>
 
 ## Connect With My Blog
 [<img width="80" src="https://play-lh.googleusercontent.com/HOwb9RHtv3AsCEyB-v1ni4z1TMgjqUJRP9FWFLNVsG-D8xoxxtfjGigzudTgSs0l8_g"/>](https://seees.tistory.com/)
@@ -11,7 +10,6 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="c++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="django" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
